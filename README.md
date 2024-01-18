@@ -2,7 +2,7 @@
 
 ![](./public/logo.svg)
 
-# mathflow-demo
+# Mathflow | Demo
 
 A simple and interactive application demostrating the power of [Mathflow](https://github.com/henryhale/mathflow).
 
