@@ -1,0 +1,33 @@
+{
+  "name": "mathflow-demo",
+  "private": true,
+  "version": "0.0.0",
+  "description": "A basic demonstration of Mathflow in action",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henryhale/mathflow-demo.git"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Henry Hale",
+    "url": "https://github.com/henryhale"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/henryhale/mathflow-demo/issues"
+  },
+  "homepage": "https://github.com/henryhale/mathflow-demo#readme",
+  "devDependencies": {
+    "typescript": "^5.2.2",
+    "vite": "^5.0.8"
+  },
+  "dependencies": {
+    "mathflow": "^0.1.0"
+  }
+}
