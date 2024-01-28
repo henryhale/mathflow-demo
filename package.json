@@ -28,6 +28,6 @@
     "vite": "^5.0.12"
   },
   "dependencies": {
-    "mathflow": "^0.2.0"
+    "mathflow": "^0.3.0"
   }
 }
