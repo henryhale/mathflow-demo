@@ -6,8 +6,8 @@ settings:
 
 dependencies:
   mathflow:
-    specifier: ^0.2.0
-    version: 0.2.0
+    specifier: ^0.3.0
+    version: 0.3.0
 
 devDependencies:
   typescript:
@@ -373,8 +373,8 @@ packages:
     dev: true
     optional: true
 
-  /mathflow@0.2.0:
-    resolution: {integrity: sha512-vvOTFigkERjTe/Y6uaaBy+VrTN2nR1pJDt/sbWiCMp7/ZlvmhUzCgy9Vq0lPtEAXxy07UZUedyE+Dy3k0xbmHg==}
+  /mathflow@0.3.0:
+    resolution: {integrity: sha512-M/2dNJwL9MzskEPyzjM31y4BGmyQbveXZfTYpZuu94XNf53ELBzSPs6XRCLBZDPguceGg35gwLLXSgQzp57vow==}
     dev: false
 
   /nanoid@3.3.7:
